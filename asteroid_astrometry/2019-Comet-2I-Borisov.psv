@@ -16,6 +16,7 @@
 # software
 ! astrometry Astrometrica 4.12.0.448
 ! photometry Astrometrica 4.12.0.448
+COM interstellar
 permID |provID     |trkSub  |mode|stn |obsTime                |ra         |dec        |rmsRA|rmsDec|astCat  |mag  |rmsMag|band|photCat |photAp|logSNR|seeing|exp |rmsFit|nStars|notes|remarks
        |           | BORISOV| CCD|G40 |2019-09-19T05:35:36Z   |136.118032 |+27.551425 |0.129|0.120 |   UCAC4|18.24|0.089 |   V|   UCAC4| 9.5  |1.25  |3.8   |1000|0.09  |   166|K    |Bernd L & Cameron M
        |           | BORISOV| CCD|G40 |2019-09-21T05:45:10Z   |137.055485 |+26.849589 |0.178|0.206 |   UCAC4|17.71|0.195 |   V|   UCAC4| 9.5  |1.49  |5.3   | 750|0.18  |   167|K    |Cameron M
