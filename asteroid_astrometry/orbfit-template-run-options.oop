@@ -1,0 +1,54 @@
+!! MODE OF USE OPTIONS !!
+operations.
+    .init_orbdet = 0
+    .diffcor = 1
+    .ident = 1
+    .ephem = 1
+
+!! OBJECT 1 DETAILS !!
+object1.
+    .name = '7335'
+    .inc_name = '7335'
+    .obs_fname = 20220503-7335-1989_JA
+    .obs_dir = .
+    .inc_files = astorb.dat[BA2]
+
+!! ORBITAL ELEMENT OPTIONS !!
+output.
+    .epoch = JD 2459702.5 UTC
+    .elements = KEP
+output_files.
+    .elem = '7335.oel'
+
+!! EPHEMERIS OPTIONS !!
+ephem.
+    .objects = 1 2
+    .epoch.start = JD 2459648.817396 UTC
+    .epoch.end = JD 2459702.681794 UTC
+    .step = 1.0
+    .obscode = 500
+    .timescale = UTC
+    .fields = cal,mjd,coord,mag,delta,r,elong,phase,glat,appmot,skyerr
+
+!! APPARENT MOTION FORMAT !!
+ephem.appmot.
+    .format = 'rectangular'
+    .units = arcsec/s
+
+!! ORBIT PROPAGATION OPTIONS !!
+propag.
+    .output_des = false
+    .ab_mag = true
+    .iast = 0
+    .ilun = 1
+    .imerc = 1
+    .iplut = 1
+    .irel  = 1
+    .filbe = 'CPV' 
+    .iclap = 1
+    .iaber = 1
+    .istat = 1
+    .npoint= 100
+
+error_model.
+    .name='fcct14'      ! Error model
