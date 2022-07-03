@@ -1,0 +1,1328 @@
+﻿MJD,filter,mag , err,telescope
+59529.343,clear,17.25,0.03,DLT40
+59529.491,clear,17,0.05,DLT40
+59529.492,clear,16.97,0.05,DLT40
+59529.516,clear,16.87,0.04,DLT40
+59529.527,clear,16.9,0.05,DLT40
+59529.528,clear,16.85,0.05,DLT40
+59529.529,clear,16.76,0.05,DLT40
+59529.541,clear,17,0.04,DLT40
+59529.546,clear,16.94,0.05,DLT40
+59529.552,clear,16.97,0.04,DLT40
+59529.582,clear,16.92,0.04,DLT40
+59529.609,clear,16.71,0.04,DLT40
+59529.712,clear,16.55,0.03,DLT40
+59529.718,clear,16.58,0.03,DLT40
+59529.745,clear,16.52,0.05,DLT40
+59529.757,clear,16.65,0.03,DLT40
+59529.765,UVW1,18.46,0.22,Swift
+59529.767,U_S,16.91,0.1,Swift
+59529.768,B_S,16.86,0.07,Swift
+59529.769,UVW2,19.67,0,Swift
+59529.772,V_S,16.54,0.1,Swift
+59529.773,UVM2,20.01,0,Swift
+59529.774,clear,16.53,0.02,DLT40
+59529.792,clear,16.45,0.03,DLT40
+59529.792,U,16.41,0.04,Las Cumbres 1m
+59529.796,U,16.45,0.03,Las Cumbres 1m
+59529.8,B,16.81,0.02,Las Cumbres 1m
+59529.8,clear,16.54,0.02,DLT40
+59529.802,B,16.75,0.02,Las Cumbres 1m
+59529.805,V,16.53,0.02,Las Cumbres 1m
+59529.807,V,16.57,0.02,Las Cumbres 1m
+59529.809,g,16.49,0.02,Las Cumbres 1m
+59529.811,g,16.52,0.02,Las Cumbres 1m
+59529.814,r,16.46,0.02,Las Cumbres 1m
+59529.816,r,16.44,0.02,Las Cumbres 1m
+59529.817,i,16.86,0.04,Las Cumbres 1m
+59529.819,i,16.76,0.03,Las Cumbres 1m
+59530.053,clear,16.21,0.01,DLT40
+59530.099,clear,16.16,0.01,DLT40
+59530.124,clear,16.2,0.01,DLT40
+59530.137,clear,16.19,0.01,DLT40
+59530.157,clear,16.1,0.01,DLT40
+59530.165,clear,16.24,0.02,DLT40
+59530.225,clear,16.13,0.01,DLT40
+59530.226,clear,16.07,0.01,DLT40
+59530.506,clear,15.9,0.02,DLT40
+59530.518,clear,15.97,0.02,DLT40
+59530.543,clear,15.94,0.02,DLT40
+59530.555,UVW1,18.61,0.25,Swift
+59530.557,U_S,16.95,0.1,Swift
+59530.558,B_S,16.5,0.06,Swift
+59530.559,UVW2,19.7,0,Swift
+59530.562,V_S,15.83,0.07,Swift
+59530.563,UVM2,19.95,0,Swift
+59530.632,clear,15.88,0.02,DLT40
+59530.643,clear,15.85,0.02,DLT40
+59530.8,U,16.42,0.03,Las Cumbres 1m
+59530.804,U,16.44,0.03,Las Cumbres 1m
+59530.806,clear,15.79,0.01,DLT40
+59530.808,B,16.33,0.02,Las Cumbres 1m
+59530.811,B,16.34,0.02,Las Cumbres 1m
+59530.813,V,15.74,0.02,Las Cumbres 1m
+59530.815,V,15.75,0.02,Las Cumbres 1m
+59530.817,g,15.9,0.02,Las Cumbres 1m
+59530.82,g,15.9,0.02,Las Cumbres 1m
+59530.822,r,15.68,0.02,Las Cumbres 1m
+59530.824,r,15.67,0.01,Las Cumbres 1m
+59530.826,i,16.12,0.02,Las Cumbres 1m
+59530.828,i,16.18,0.02,Las Cumbres 1m
+59531.154,clear,15.52,0.01,DLT40
+59531.28,clear,15.46,0,DLT40
+59531.286,UVW1,18.17,0.18,Swift
+59531.288,U_S,16.74,0.09,Swift
+59531.289,B_S,16.06,0.06,Swift
+59531.29,UVW2,19.67,0,Swift
+59531.294,V_S,15.43,0.06,Swift
+59531.295,UVM2,20.17,0,Swift
+59531.522,clear,15.36,0.01,DLT40
+59531.621,U,15.97,0.02,Las Cumbres 1m
+59531.621,B,15.8,0.04,Las Cumbres 0.4m
+59531.623,B,15.73,0.04,Las Cumbres 0.4m
+59531.624,U,15.98,0.02,Las Cumbres 1m
+59531.626,V,15.18,0.03,Las Cumbres 0.4m
+59531.626,clear,15.28,0.01,DLT40
+59531.627,V,15.18,0.03,Las Cumbres 0.4m
+59531.628,B,15.88,0.01,Las Cumbres 1m
+59531.629,g,15.36,0.02,Las Cumbres 0.4m
+59531.631,B,15.87,0.01,Las Cumbres 1m
+59531.632,g,15.36,0.03,Las Cumbres 0.4m
+59531.634,V,15.23,0.01,Las Cumbres 1m
+59531.634,r,15.11,0.02,Las Cumbres 0.4m
+59531.635,V,15.22,0.01,Las Cumbres 1m
+59531.636,r,15.13,0.03,Las Cumbres 0.4m
+59531.637,i,15.54,0.05,Las Cumbres 0.4m
+59531.637,g,15.45,0.01,Las Cumbres 1m
+59531.639,i,15.58,0.05,Las Cumbres 0.4m
+59531.64,g,15.45,0.01,Las Cumbres 1m
+59531.643,r,15.17,0.01,Las Cumbres 1m
+59531.645,r,15.16,0.01,Las Cumbres 1m
+59531.647,i,15.67,0.02,Las Cumbres 1m
+59531.648,i,15.68,0.02,Las Cumbres 1m
+59531.649,U,15.94,0.02,Las Cumbres 1m
+59531.653,U,15.9,0.02,Las Cumbres 1m
+59531.657,B,15.85,0.02,Las Cumbres 1m
+59531.66,B,15.81,0.02,Las Cumbres 1m
+59531.663,V,15.2,0.02,Las Cumbres 1m
+59531.664,V,15.2,0.01,Las Cumbres 1m
+59531.666,g,15.43,0.01,Las Cumbres 1m
+59531.669,g,15.42,0.01,Las Cumbres 1m
+59531.672,r,15.14,0.01,Las Cumbres 1m
+59531.673,r,15.14,0.01,Las Cumbres 1m
+59531.675,i,15.63,0.02,Las Cumbres 1m
+59531.677,clear,15.29,0.01,DLT40
+59531.677,i,15.65,0.02,Las Cumbres 1m
+59531.788,clear,15.17,0.01,DLT40
+59532.012,clear,15.05,0.01,DLT40
+59532.063,clear,15.05,0.01,DLT40
+59532.083,UVW1,17.68,0.09,Swift
+59532.084,U_S,16.09,0.05,Swift
+59532.085,B_S,15.24,0.04,Swift
+59532.086,UVW2,18.95,0.15,Swift
+59532.09,V_S,14.67,0.04,Swift
+59532.091,UVM2,20.42,0,Swift
+59532.107,clear,15.04,0.01,DLT40
+59532.126,clear,14.9,0,DLT40
+59532.171,clear,14.96,0.01,DLT40
+59532.251,clear,14.86,0,DLT40
+59532.329,clear,14.82,0,DLT40
+59532.483,U,15.4,0.02,Las Cumbres 1m
+59532.487,U,15.41,0.02,Las Cumbres 1m
+59532.491,B,15.24,0.01,Las Cumbres 1m
+59532.493,B,15.23,0.01,Las Cumbres 1m
+59532.496,V,14.75,0.01,Las Cumbres 1m
+59532.498,V,14.75,0.01,Las Cumbres 1m
+59532.5,g,14.86,0.01,Las Cumbres 1m
+59532.502,g,14.85,0.01,Las Cumbres 1m
+59532.505,r,14.7,0.01,Las Cumbres 1m
+59532.507,r,14.7,0.01,Las Cumbres 1m
+59532.509,i,15.19,0.01,Las Cumbres 1m
+59532.511,i,15.19,0.01,Las Cumbres 1m
+59532.628,B,15.26,0.04,Las Cumbres 0.4m
+59532.63,B,15.23,0.04,Las Cumbres 0.4m
+59532.633,V,14.69,0.03,Las Cumbres 0.4m
+59532.634,V,14.68,0.03,Las Cumbres 0.4m
+59532.636,g,14.85,0.03,Las Cumbres 0.4m
+59532.639,g,14.83,0.03,Las Cumbres 0.4m
+59532.641,r,14.59,0.03,Las Cumbres 0.4m
+59532.643,r,14.65,0.03,Las Cumbres 0.4m
+59532.645,i,15.09,0.05,Las Cumbres 0.4m
+59532.646,i,15.08,0.05,Las Cumbres 0.4m
+59532.805,clear,14.6,0,DLT40
+59532.806,U,15.22,0.02,Las Cumbres 1m
+59532.809,U,15.16,0.02,Las Cumbres 1m
+59532.812,B,14.95,0.01,Las Cumbres 1m
+59532.814,B,14.95,0.02,Las Cumbres 1m
+59532.815,V,14.61,0.01,Las Cumbres 1m
+59532.817,V,14.59,0.01,Las Cumbres 1m
+59532.818,g,14.65,0.01,Las Cumbres 1m
+59532.82,g,14.63,0.01,Las Cumbres 1m
+59532.822,r,14.54,0.01,Las Cumbres 1m
+59532.823,r,14.54,0.01,Las Cumbres 1m
+59532.825,i,15.07,0.01,Las Cumbres 1m
+59532.826,i,15.05,0.01,Las Cumbres 1m
+59533.014,clear,14.53,0,DLT40
+59533.05,clear,14.48,0.01,DLT40
+59533.103,clear,14.45,0,DLT40
+59533.14,clear,14.42,0,DLT40
+59533.345,UVW1,17.05,0.07,Swift
+59533.347,U_S,15.39,0.05,Swift
+59533.348,B_S,14.57,0.04,Swift
+59533.349,UVW2,18.22,0.11,Swift
+59533.353,V_S,14.21,0.04,Swift
+59533.354,UVM2,20.3,0,Swift
+59533.423,U,14.76,0.02,Las Cumbres 1m
+59533.426,U,14.71,0.03,Las Cumbres 1m
+59533.429,B,14.59,0.01,Las Cumbres 1m
+59533.431,B,14.58,0.01,Las Cumbres 1m
+59533.432,V,14.29,0.01,Las Cumbres 1m
+59533.434,V,14.29,0.01,Las Cumbres 1m
+59533.435,g,14.3,0.01,Las Cumbres 1m
+59533.437,g,14.3,0.01,Las Cumbres 1m
+59533.439,r,14.25,0.01,Las Cumbres 1m
+59533.44,r,14.26,0.01,Las Cumbres 1m
+59533.442,i,14.72,0.01,Las Cumbres 1m
+59533.443,i,14.74,0.01,Las Cumbres 1m
+59533.51,clear,14.29,0.01,DLT40
+59533.536,clear,14.23,0,DLT40
+59533.635,B,14.46,0.03,Las Cumbres 0.4m
+59533.637,B,14.48,0.02,Las Cumbres 0.4m
+59533.64,V,14.14,0.02,Las Cumbres 0.4m
+59533.641,V,14.15,0.02,Las Cumbres 0.4m
+59533.651,i,14.6,0.04,Las Cumbres 0.4m
+59533.653,i,14.6,0.03,Las Cumbres 0.4m
+59533.782,U,14.45,0.02,Las Cumbres 1m
+59533.784,U,14.43,0.02,Las Cumbres 1m
+59533.787,B,14.29,0.01,Las Cumbres 1m
+59533.789,B,14.3,0.01,Las Cumbres 1m
+59533.791,V,14.14,0.01,Las Cumbres 1m
+59533.792,V,14.14,0.01,Las Cumbres 1m
+59533.794,g,14.07,0.01,Las Cumbres 1m
+59533.795,g,14.07,0.01,Las Cumbres 1m
+59533.797,r,14.09,0.01,Las Cumbres 1m
+59533.799,r,14.09,0.01,Las Cumbres 1m
+59533.801,i,14.58,0.01,Las Cumbres 1m
+59534.046,clear,14.07,0.01,DLT40
+59534.093,clear,14.03,0.01,DLT40
+59534.421,U,13.94,0.02,Las Cumbres 1m
+59534.424,U,13.94,0.02,Las Cumbres 1m
+59534.427,B,14,0.01,Las Cumbres 1m
+59534.429,B,14.01,0.01,Las Cumbres 1m
+59534.43,V,13.88,0.01,Las Cumbres 1m
+59534.432,V,13.88,0.01,Las Cumbres 1m
+59534.433,g,13.8,0.01,Las Cumbres 1m
+59534.435,g,13.81,0.01,Las Cumbres 1m
+59534.437,r,13.82,0.01,Las Cumbres 1m
+59534.438,r,13.82,0.01,Las Cumbres 1m
+59534.44,i,14.28,0.01,Las Cumbres 1m
+59534.441,i,14.28,0.01,Las Cumbres 1m
+59534.519,clear,13.8,0,DLT40
+59534.641,B,13.95,0.04,Las Cumbres 0.4m
+59534.644,B,13.94,0.02,Las Cumbres 0.4m
+59534.647,V,13.72,0.02,Las Cumbres 0.4m
+59534.648,V,13.75,0.02,Las Cumbres 0.4m
+59534.65,g,13.76,0.02,Las Cumbres 0.4m
+59534.652,g,13.77,0.02,Las Cumbres 0.4m
+59534.655,r,13.72,0.02,Las Cumbres 0.4m
+59534.657,r,13.7,0.02,Las Cumbres 0.4m
+59534.658,i,14.06,0.02,Las Cumbres 0.4m
+59534.66,i,14.13,0.03,Las Cumbres 0.4m
+59534.815,U,13.82,0.02,Las Cumbres 1m
+59534.817,U,13.84,0.02,Las Cumbres 1m
+59534.819,B,13.73,0.01,Las Cumbres 1m
+59534.82,B,13.74,0.01,Las Cumbres 1m
+59534.821,V,13.75,0.01,Las Cumbres 1m
+59534.822,V,13.75,0.01,Las Cumbres 1m
+59534.824,g,13.59,0.01,Las Cumbres 1m
+59534.825,g,13.59,0.01,Las Cumbres 1m
+59534.827,r,13.67,0.01,Las Cumbres 1m
+59534.828,r,13.67,0.01,Las Cumbres 1m
+59534.829,i,14.16,0.01,Las Cumbres 1m
+59534.83,i,14.15,0.01,Las Cumbres 1m
+59535.104,clear,13.54,0,DLT40
+59535.189,clear,13.55,0,DLT40
+59535.481,UVW1,15.66,0.06,Swift
+59535.483,U_S,13.91,0.05,Swift
+59535.484,B_S,13.48,0.04,Swift
+59535.485,UVW2,16.95,0.08,Swift
+59535.488,V_S,13.44,0.04,Swift
+59535.489,UVM2,19.64,0.3,Swift
+59535.669,g,13.37,0.02,Las Cumbres 0.4m
+59535.672,g,13.38,0.02,Las Cumbres 0.4m
+59535.678,i,13.79,0.02,Las Cumbres 0.4m
+59535.679,i,13.78,0.02,Las Cumbres 0.4m
+59536.049,clear,13.25,0,DLT40
+59536.069,U,13.16,0.02,Las Cumbres 1m
+59536.071,U,13.2,0.02,Las Cumbres 1m
+59536.073,B,13.26,0.01,Las Cumbres 1m
+59536.074,B,13.27,0.01,Las Cumbres 1m
+59536.076,V,13.32,0.02,Las Cumbres 1m
+59536.077,V,13.31,0.02,Las Cumbres 1m
+59536.078,g,13.13,0.01,Las Cumbres 1m
+59536.079,g,13.13,0.01,Las Cumbres 1m
+59536.081,r,13.25,0.01,Las Cumbres 1m
+59536.082,r,13.26,0.01,Las Cumbres 1m
+59536.083,i,13.69,0.01,Las Cumbres 1m
+59536.084,i,13.69,0.01,Las Cumbres 1m
+59536.126,clear,13.19,0,DLT40
+59536.662,B,13.71,0.11,Las Cumbres 0.4m
+59536.664,B,13.31,0.06,Las Cumbres 0.4m
+59536.667,V,13.22,0.04,Las Cumbres 0.4m
+59536.668,V,13.22,0.04,Las Cumbres 0.4m
+59536.67,g,13.14,0.04,Las Cumbres 0.4m
+59536.673,g,13.22,0.05,Las Cumbres 0.4m
+59536.675,r,13.31,0.12,Las Cumbres 0.4m
+59536.677,r,13.36,0.17,Las Cumbres 0.4m
+59536.678,i,13.58,0.18,Las Cumbres 0.4m
+59536.68,i,13.63,0.17,Las Cumbres 0.4m
+59536.953,U,12.85,0.02,Las Cumbres 1m
+59536.955,U,12.83,0.02,Las Cumbres 1m
+59536.956,B,13.02,0.01,Las Cumbres 1m
+59536.958,B,13.02,0.01,Las Cumbres 1m
+59536.959,V,13.11,0.01,Las Cumbres 1m
+59536.96,V,13.11,0.01,Las Cumbres 1m
+59536.962,g,12.9,0.01,Las Cumbres 1m
+59536.963,g,12.89,0.01,Las Cumbres 1m
+59536.964,r,13.05,0.01,Las Cumbres 1m
+59536.965,r,13.04,0.01,Las Cumbres 1m
+59536.967,i,13.45,0.01,Las Cumbres 1m
+59536.968,i,13.45,0.01,Las Cumbres 1m
+59537.002,UVW2,16.05,0.07,Swift
+59537.016,UVW2,16.01,0.07,Swift
+59537.341,clear,12.91,0,DLT40
+59537.6,UVW1,14.34,0.05,Swift
+59537.602,U_S,12.73,0.05,Swift
+59537.603,B_S,12.84,0.04,Swift
+59537.604,UVW2,15.93,0.07,Swift
+59537.607,V_S,12.91,0.04,Swift
+59537.608,UVM2,18.17,0.14,Swift
+59537.779,B,12.94,0.02,Las Cumbres 0.4m
+59537.781,B,12.97,0.02,Las Cumbres 0.4m
+59537.784,V,12.93,0.02,Las Cumbres 0.4m
+59537.785,V,12.91,0.02,Las Cumbres 0.4m
+59537.787,g,12.87,0.03,Las Cumbres 0.4m
+59537.789,g,12.87,0.02,Las Cumbres 0.4m
+59537.792,r,12.88,0.02,Las Cumbres 0.4m
+59537.793,r,12.85,0.02,Las Cumbres 0.4m
+59537.795,i,13.18,0.02,Las Cumbres 0.4m
+59537.796,i,13.17,0.02,Las Cumbres 0.4m
+59537.853,U,12.59,0.02,Las Cumbres 1m
+59537.855,U,12.58,0.02,Las Cumbres 1m
+59537.857,B,12.83,0.01,Las Cumbres 1m
+59537.858,B,12.82,0.01,Las Cumbres 1m
+59537.86,V,12.92,0.01,Las Cumbres 1m
+59537.861,V,12.92,0.01,Las Cumbres 1m
+59537.862,g,12.7,0.01,Las Cumbres 1m
+59537.863,g,12.69,0.01,Las Cumbres 1m
+59537.865,r,12.86,0.01,Las Cumbres 1m
+59537.866,r,12.86,0.01,Las Cumbres 1m
+59537.867,i,13.24,0.01,Las Cumbres 1m
+59537.868,i,13.24,0.01,Las Cumbres 1m
+59538.328,clear,12.69,0,DLT40
+59538.854,U,12.41,0.02,Las Cumbres 1m
+59538.856,U,12.38,0.02,Las Cumbres 1m
+59538.858,B,12.62,0.02,Las Cumbres 1m
+59538.859,B,12.63,0.01,Las Cumbres 1m
+59538.861,V,12.74,0.01,Las Cumbres 1m
+59538.862,V,12.75,0.01,Las Cumbres 1m
+59538.863,g,12.51,0.01,Las Cumbres 1m
+59538.864,g,12.52,0.01,Las Cumbres 1m
+59538.866,r,12.69,0.01,Las Cumbres 1m
+59538.867,r,12.69,0.01,Las Cumbres 1m
+59538.868,i,13.06,0.01,Las Cumbres 1m
+59538.869,i,13.05,0.01,Las Cumbres 1m
+59538.897,B,12.71,0.02,Las Cumbres 0.4m
+59538.899,B,12.71,0.02,Las Cumbres 0.4m
+59538.902,V,12.78,0.03,Las Cumbres 0.4m
+59538.903,V,12.76,0.03,Las Cumbres 0.4m
+59538.905,g,12.7,0.03,Las Cumbres 0.4m
+59538.907,g,12.65,0.03,Las Cumbres 0.4m
+59538.91,r,12.66,0.02,Las Cumbres 0.4m
+59538.912,r,12.65,0.02,Las Cumbres 0.4m
+59538.913,i,12.92,0.03,Las Cumbres 0.4m
+59538.915,i,12.92,0.02,Las Cumbres 0.4m
+59539.561,clear,12.57,0,DLT40
+59540.028,B,12.49,0.04,Las Cumbres 0.4m
+59540.031,B,12.36,0.03,Las Cumbres 0.4m
+59540.033,V,12.42,0.03,Las Cumbres 0.4m
+59540.035,V,12.44,0.03,Las Cumbres 0.4m
+59540.037,g,12.26,0.03,Las Cumbres 0.4m
+59540.039,g,12.17,0.03,Las Cumbres 0.4m
+59540.041,r,12.35,0.03,Las Cumbres 0.4m
+59540.043,r,12.33,0.03,Las Cumbres 0.4m
+59540.045,i,12.82,0.03,Las Cumbres 0.4m
+59540.046,i,12.8,0.03,Las Cumbres 0.4m
+59541.026,B,12.34,0.04,Las Cumbres 0.4m
+59541.028,B,12.42,0.04,Las Cumbres 0.4m
+59541.031,V,12.3,0.02,Las Cumbres 0.4m
+59541.032,V,12.31,0.03,Las Cumbres 0.4m
+59541.034,g,12.15,0.03,Las Cumbres 0.4m
+59541.036,g,12.25,0.03,Las Cumbres 0.4m
+59541.039,r,12.37,0.03,Las Cumbres 0.4m
+59541.04,r,12.31,0.02,Las Cumbres 0.4m
+59541.042,i,12.74,0.03,Las Cumbres 0.4m
+59541.043,i,12.76,0.03,Las Cumbres 0.4m
+59541.387,UVW1,13.56,0.05,Swift
+59541.389,U_S,12.33,0.04,Swift
+59541.39,B_S,13.03,0.04,Swift
+59541.391,UVW2,15.15,0.07,Swift
+59541.394,V_S,12.46,0.04,Swift
+59541.395,UVM2,17.16,0.07,Swift
+59541.51,clear,12.37,0,DLT40
+59541.701,clear,12.33,0,DLT40
+59541.771,U,12.02,0.02,Las Cumbres 1m
+59541.772,U,12.01,0.02,Las Cumbres 1m
+59541.774,B,12.26,0.02,Las Cumbres 1m
+59541.776,B,12.25,0.01,Las Cumbres 1m
+59541.777,V,12.4,0.01,Las Cumbres 1m
+59541.778,V,12.4,0.01,Las Cumbres 1m
+59541.779,g,12.18,0.01,Las Cumbres 1m
+59541.781,g,12.18,0.01,Las Cumbres 1m
+59541.782,r,12.38,0.01,Las Cumbres 1m
+59541.783,r,12.38,0.01,Las Cumbres 1m
+59541.789,U,11.97,0.02,Las Cumbres 1m
+59541.791,U,11.98,0.02,Las Cumbres 1m
+59541.793,B,12.27,0.02,Las Cumbres 1m
+59541.794,B,12.28,0.01,Las Cumbres 1m
+59541.796,V,12.39,0.01,Las Cumbres 1m
+59541.797,V,12.38,0.01,Las Cumbres 1m
+59541.798,g,12.21,0.01,Las Cumbres 1m
+59541.799,g,12.2,0.01,Las Cumbres 1m
+59541.801,r,12.37,0.01,Las Cumbres 1m
+59541.802,r,12.35,0.01,Las Cumbres 1m
+59541.803,i,12.8,0.02,Las Cumbres 1m
+59541.804,i,12.79,0.01,Las Cumbres 1m
+59541.906,B,12.21,0.02,Las Cumbres 0.4m
+59541.908,B,12.2,0.02,Las Cumbres 0.4m
+59541.911,V,12.24,0.02,Las Cumbres 0.4m
+59541.912,V,12.25,0.02,Las Cumbres 0.4m
+59541.914,g,12.17,0.02,Las Cumbres 0.4m
+59541.916,g,12.17,0.02,Las Cumbres 0.4m
+59541.919,r,12.26,0.02,Las Cumbres 0.4m
+59541.92,r,12.25,0.02,Las Cumbres 0.4m
+59541.922,i,12.61,0.02,Las Cumbres 0.4m
+59541.924,i,12.61,0.02,Las Cumbres 0.4m
+59542.609,clear,12.28,0,DLT40
+59542.623,clear,12.28,0,DLT40
+59542.776,B,12.13,0.02,Las Cumbres 0.4m
+59542.778,B,12.1,0.02,Las Cumbres 0.4m
+59542.781,V,12.14,0.02,Las Cumbres 0.4m
+59542.782,V,12.14,0.02,Las Cumbres 0.4m
+59542.784,g,12.02,0.02,Las Cumbres 0.4m
+59542.786,g,12.02,0.02,Las Cumbres 0.4m
+59542.789,r,12.17,0.02,Las Cumbres 0.4m
+59542.79,r,12.19,0.02,Las Cumbres 0.4m
+59542.792,i,12.63,0.03,Las Cumbres 0.4m
+59542.793,i,12.59,0.02,Las Cumbres 0.4m
+59542.817,clear,12.27,0,DLT40
+59542.947,U,11.88,0.02,Las Cumbres 1m
+59542.949,U,11.88,0.02,Las Cumbres 1m
+59542.951,B,12.2,0.01,Las Cumbres 1m
+59542.952,B,12.21,0.01,Las Cumbres 1m
+59542.954,V,12.3,0.01,Las Cumbres 1m
+59542.955,V,12.3,0.01,Las Cumbres 1m
+59542.956,g,12.18,0.01,Las Cumbres 1m
+59543.017,U,11.89,0.02,Las Cumbres 1m
+59543.019,U,11.88,0.02,Las Cumbres 1m
+59543.021,B,12.17,0.01,Las Cumbres 1m
+59543.022,B,12.16,0.01,Las Cumbres 1m
+59543.024,V,12.27,0.01,Las Cumbres 1m
+59543.025,V,12.26,0.01,Las Cumbres 1m
+59543.026,g,12.06,0.01,Las Cumbres 1m
+59543.027,g,12.06,0.01,Las Cumbres 1m
+59543.029,r,12.27,0.01,Las Cumbres 1m
+59543.03,r,12.27,0.01,Las Cumbres 1m
+59543.031,i,12.73,0.01,Las Cumbres 1m
+59543.032,i,12.72,0.01,Las Cumbres 1m
+59543.606,clear,12.24,0,DLT40
+59543.76,clear,12.24,0,DLT40
+59544.087,U,11.81,0.02,Las Cumbres 1m
+59544.089,U,11.81,0.01,Las Cumbres 1m
+59544.09,B,12.1,0.01,Las Cumbres 1m
+59544.092,B,12.1,0.01,Las Cumbres 1m
+59544.093,V,12.19,0.01,Las Cumbres 1m
+59544.094,V,12.2,0.01,Las Cumbres 1m
+59544.096,g,11.99,0.01,Las Cumbres 1m
+59544.097,g,11.99,0.01,Las Cumbres 1m
+59544.098,r,12.23,0.01,Las Cumbres 1m
+59544.099,r,12.22,0.01,Las Cumbres 1m
+59544.101,i,12.72,0.01,Las Cumbres 1m
+59544.102,i,12.73,0.01,Las Cumbres 1m
+59544.278,B,12.11,0.03,Las Cumbres 0.4m
+59544.28,B,12.12,0.03,Las Cumbres 0.4m
+59544.283,V,12.13,0.03,Las Cumbres 0.4m
+59544.284,V,12.11,0.02,Las Cumbres 0.4m
+59544.286,g,12.08,0.02,Las Cumbres 0.4m
+59544.288,g,12.09,0.02,Las Cumbres 0.4m
+59544.291,r,12.18,0.02,Las Cumbres 0.4m
+59544.292,r,12.17,0.02,Las Cumbres 0.4m
+59544.294,i,12.63,0.02,Las Cumbres 0.4m
+59544.295,i,12.61,0.03,Las Cumbres 0.4m
+59544.65,clear,12.18,0,DLT40
+59544.808,clear,12.19,0,DLT40
+59544.972,UVW1,13.21,0.05,Swift
+59544.973,U_S,11.69,0.05,Swift
+59544.975,B_S,12.11,0.04,Swift
+59544.976,UVW2,14.8,0.07,Swift
+59544.978,V_S,12.12,0.04,Swift
+59544.979,UVM2,16.27,0.06,Swift
+59545.128,B,12.05,0.03,Las Cumbres 0.4m
+59545.13,B,11.99,0.03,Las Cumbres 0.4m
+59545.132,V,11.98,0.02,Las Cumbres 0.4m
+59545.134,V,11.97,0.02,Las Cumbres 0.4m
+59545.136,g,11.9,0.02,Las Cumbres 0.4m
+59545.138,g,11.98,0.03,Las Cumbres 0.4m
+59545.141,r,12.04,0.02,Las Cumbres 0.4m
+59545.142,r,12.04,0.02,Las Cumbres 0.4m
+59545.144,i,12.65,0.03,Las Cumbres 0.4m
+59545.145,i,12.65,0.03,Las Cumbres 0.4m
+59545.582,clear,12.16,0,DLT40
+59546.089,B,12.07,0.05,Las Cumbres 0.4m
+59546.09,B,12.37,0.07,Las Cumbres 0.4m
+59546.091,V,12.08,0.05,Las Cumbres 0.4m
+59546.091,V,12.04,0.05,Las Cumbres 0.4m
+59546.092,g,12.04,0.04,Las Cumbres 0.4m
+59546.093,g,11.96,0.03,Las Cumbres 0.4m
+59546.094,r,12.01,0.03,Las Cumbres 0.4m
+59546.094,r,12,0.03,Las Cumbres 0.4m
+59546.095,i,12.72,0.04,Las Cumbres 0.4m
+59546.095,i,12.72,0.04,Las Cumbres 0.4m
+59546.44,UVW1,13.39,0.05,Swift
+59546.441,U_S,11.81,0.04,Swift
+59546.443,B_S,12.1,0.04,Swift
+59546.444,UVW2,14.94,0.07,Swift
+59546.446,V_S,12.07,0.04,Swift
+59546.447,UVM2,16.14,0.07,Swift
+59547.1,B,12.3,0.04,Las Cumbres 0.4m
+59547.101,B,12.31,0.03,Las Cumbres 0.4m
+59547.102,V,12.12,0.04,Las Cumbres 0.4m
+59547.103,V,12.09,0.04,Las Cumbres 0.4m
+59547.103,g,12.15,0.02,Las Cumbres 0.4m
+59547.104,g,12.15,0.02,Las Cumbres 0.4m
+59547.105,r,12.22,0.02,Las Cumbres 0.4m
+59547.106,r,12.22,0.02,Las Cumbres 0.4m
+59547.106,i,12.86,0.03,Las Cumbres 0.4m
+59547.107,i,12.87,0.03,Las Cumbres 0.4m
+59547.322,clear,12.08,0,DLT40
+59547.593,clear,12.14,0,DLT40
+59547.873,U,11.84,0.02,Las Cumbres 1m
+59547.875,U,11.85,0.02,Las Cumbres 1m
+59547.876,B,12.1,0.01,Las Cumbres 1m
+59547.877,B,12.1,0.01,Las Cumbres 1m
+59547.879,V,12.13,0.02,Las Cumbres 1m
+59547.879,V,12.12,0.01,Las Cumbres 1m
+59547.88,g,11.98,0.01,Las Cumbres 1m
+59547.881,g,11.99,0.01,Las Cumbres 1m
+59547.882,r,12.12,0.01,Las Cumbres 1m
+59547.883,r,12.11,0.01,Las Cumbres 1m
+59547.884,i,12.78,0.01,Las Cumbres 1m
+59547.884,i,12.79,0.01,Las Cumbres 1m
+59548.031,UVW1,13.43,0.05,Swift
+59548.033,U_S,11.84,0.04,Swift
+59548.034,B_S,12.08,0.04,Swift
+59548.035,UVW2,14.89,0.07,Swift
+59548.038,V_S,12.02,0.04,Swift
+59548.039,UVM2,16.05,0.07,Swift
+59548.12,B,12.15,0.04,Las Cumbres 0.4m
+59548.12,B,12.19,0.05,Las Cumbres 0.4m
+59548.121,V,12.02,0.03,Las Cumbres 0.4m
+59548.122,V,12.02,0.03,Las Cumbres 0.4m
+59548.122,g,11.93,0.03,Las Cumbres 0.4m
+59548.123,g,11.96,0.03,Las Cumbres 0.4m
+59548.124,r,12.02,0.03,Las Cumbres 0.4m
+59548.125,r,12.01,0.03,Las Cumbres 0.4m
+59548.125,i,12.77,0.04,Las Cumbres 0.4m
+59548.126,i,12.81,0.04,Las Cumbres 0.4m
+59548.511,clear,12.16,0,DLT40
+59548.804,U,11.9,0.02,Las Cumbres 1m
+59548.806,U,11.91,0.02,Las Cumbres 1m
+59548.807,B,12.13,0.01,Las Cumbres 1m
+59548.808,B,12.13,0.01,Las Cumbres 1m
+59548.892,U,11.91,0.02,Las Cumbres 1m
+59548.894,U,11.91,0.02,Las Cumbres 1m
+59548.895,B,12.13,0.01,Las Cumbres 1m
+59548.896,B,12.13,0.01,Las Cumbres 1m
+59548.898,V,12.12,0.01,Las Cumbres 1m
+59548.898,V,12.12,0.01,Las Cumbres 1m
+59548.899,g,12,0.01,Las Cumbres 1m
+59548.9,g,12,0.01,Las Cumbres 1m
+59548.901,r,12.1,0.01,Las Cumbres 1m
+59548.902,r,12.1,0.01,Las Cumbres 1m
+59548.903,i,12.81,0.01,Las Cumbres 1m
+59548.903,i,12.81,0.01,Las Cumbres 1m
+59549.129,B,12.34,0.04,Las Cumbres 0.4m
+59549.129,B,12.38,0.04,Las Cumbres 0.4m
+59549.13,V,12.12,0.03,Las Cumbres 0.4m
+59549.131,V,12.12,0.03,Las Cumbres 0.4m
+59549.131,g,12.11,0.03,Las Cumbres 0.4m
+59549.132,g,12.1,0.03,Las Cumbres 0.4m
+59549.133,r,12.11,0.03,Las Cumbres 0.4m
+59549.134,r,12.11,0.03,Las Cumbres 0.4m
+59549.134,i,12.9,0.04,Las Cumbres 0.4m
+59549.135,i,12.9,0.04,Las Cumbres 0.4m
+59549.525,clear,12.16,0,DLT40
+59550.136,B,12.28,0.04,Las Cumbres 0.4m
+59550.137,B,12.39,0.06,Las Cumbres 0.4m
+59550.137,V,12.05,0.04,Las Cumbres 0.4m
+59550.138,V,12.05,0.04,Las Cumbres 0.4m
+59550.138,g,12.02,0.03,Las Cumbres 0.4m
+59550.139,g,11.99,0.03,Las Cumbres 0.4m
+59550.14,r,12.03,0.03,Las Cumbres 0.4m
+59550.141,r,11.99,0.03,Las Cumbres 0.4m
+59550.141,i,12.87,0.05,Las Cumbres 0.4m
+59550.142,i,12.83,0.06,Las Cumbres 0.4m
+59550.525,U,12,0.02,Las Cumbres 1m
+59550.526,U,11.99,0.02,Las Cumbres 1m
+59550.574,U,11.99,0.02,Las Cumbres 1m
+59550.575,U,11.99,0.02,Las Cumbres 1m
+59550.577,B,12.19,0.01,Las Cumbres 1m
+59550.578,B,12.19,0.01,Las Cumbres 1m
+59550.579,V,12.12,0.01,Las Cumbres 1m
+59550.579,V,12.12,0.01,Las Cumbres 1m
+59550.58,g,12.03,0.01,Las Cumbres 1m
+59550.581,g,12.04,0.01,Las Cumbres 1m
+59550.582,r,12.12,0.01,Las Cumbres 1m
+59550.583,r,12.13,0.01,Las Cumbres 1m
+59550.584,i,12.87,0.01,Las Cumbres 1m
+59550.584,i,12.86,0.01,Las Cumbres 1m
+59550.748,UVW1,13.58,0.05,Swift
+59550.75,U_S,12.04,0.04,Swift
+59550.751,B_S,12.17,0.04,Swift
+59550.752,UVW2,15.07,0.07,Swift
+59550.755,V_S,12,0.04,Swift
+59550.756,UVM2,16.12,0.06,Swift
+59551.163,B,12.34,0.05,Las Cumbres 0.4m
+59551.164,B,12.33,0.05,Las Cumbres 0.4m
+59551.165,V,12.09,0.04,Las Cumbres 0.4m
+59551.165,V,12.08,0.04,Las Cumbres 0.4m
+59551.166,g,12.07,0.03,Las Cumbres 0.4m
+59551.167,g,12.09,0.03,Las Cumbres 0.4m
+59551.168,r,12.07,0.03,Las Cumbres 0.4m
+59551.168,r,12.05,0.03,Las Cumbres 0.4m
+59551.169,i,12.86,0.04,Las Cumbres 0.4m
+59551.169,i,12.9,0.04,Las Cumbres 0.4m
+59551.594,U,12.04,0.02,Las Cumbres 1m
+59551.595,U,12.05,0.02,Las Cumbres 1m
+59551.597,B,12.24,0.01,Las Cumbres 1m
+59551.597,B,12.23,0.01,Las Cumbres 1m
+59551.599,V,12.14,0.01,Las Cumbres 1m
+59551.599,V,12.14,0.01,Las Cumbres 1m
+59551.6,g,12.06,0.01,Las Cumbres 1m
+59551.601,g,12.06,0.01,Las Cumbres 1m
+59551.602,r,12.15,0.01,Las Cumbres 1m
+59551.603,r,12.14,0.01,Las Cumbres 1m
+59551.603,i,12.91,0.01,Las Cumbres 1m
+59551.604,i,12.91,0.02,Las Cumbres 1m
+59551.675,clear,12.19,0,DLT40
+59552.17,B,12.32,0.05,Las Cumbres 0.4m
+59552.171,B,12.43,0.05,Las Cumbres 0.4m
+59552.172,V,12.08,0.04,Las Cumbres 0.4m
+59552.172,V,12.1,0.04,Las Cumbres 0.4m
+59552.173,g,12.05,0.03,Las Cumbres 0.4m
+59552.173,g,12.07,0.03,Las Cumbres 0.4m
+59552.174,r,12.07,0.03,Las Cumbres 0.4m
+59552.175,r,12.04,0.03,Las Cumbres 0.4m
+59552.175,i,12.92,0.04,Las Cumbres 0.4m
+59552.176,i,12.96,0.05,Las Cumbres 0.4m
+59552.756,clear,12.24,0,DLT40
+59553.178,B,12.4,0.05,Las Cumbres 0.4m
+59553.179,B,12.4,0.04,Las Cumbres 0.4m
+59553.18,V,12.23,0.03,Las Cumbres 0.4m
+59553.181,V,12.19,0.03,Las Cumbres 0.4m
+59553.181,g,12.22,0.03,Las Cumbres 0.4m
+59553.182,g,12.2,0.03,Las Cumbres 0.4m
+59553.183,r,12.23,0.03,Las Cumbres 0.4m
+59553.184,r,12.22,0.03,Las Cumbres 0.4m
+59553.184,i,12.97,0.04,Las Cumbres 0.4m
+59553.185,i,13.02,0.04,Las Cumbres 0.4m
+59553.265,U,12.16,0.02,Las Cumbres 1m
+59553.266,U,12.16,0.02,Las Cumbres 1m
+59553.268,B,12.27,0.01,Las Cumbres 1m
+59553.269,B,12.26,0.01,Las Cumbres 1m
+59553.27,V,12.17,0.01,Las Cumbres 1m
+59553.27,V,12.17,0.01,Las Cumbres 1m
+59553.271,g,12.08,0.01,Las Cumbres 1m
+59553.272,g,12.07,0.01,Las Cumbres 1m
+59553.273,r,12.18,0.01,Las Cumbres 1m
+59553.274,r,12.19,0.01,Las Cumbres 1m
+59553.274,i,12.97,0.01,Las Cumbres 1m
+59553.275,i,12.96,0.01,Las Cumbres 1m
+59553.8,UVW1,13.97,0.05,Swift
+59553.802,U_S,12.3,0.08,Swift
+59553.803,B_S,12.31,0.04,Swift
+59553.804,UVW2,15.31,0.07,Swift
+59553.807,V_S,12.05,0.04,Swift
+59553.808,UVM2,16.24,0.06,Swift
+59554.187,B,12.61,0.06,Las Cumbres 0.4m
+59554.188,B,12.69,0.06,Las Cumbres 0.4m
+59554.189,V,12.15,0.04,Las Cumbres 0.4m
+59554.189,V,12.17,0.04,Las Cumbres 0.4m
+59554.19,g,12.1,0.03,Las Cumbres 0.4m
+59554.191,g,12.09,0.03,Las Cumbres 0.4m
+59554.191,r,12.23,0.03,Las Cumbres 0.4m
+59554.192,r,12.17,0.04,Las Cumbres 0.4m
+59554.192,i,12.97,0.06,Las Cumbres 0.4m
+59554.193,i,13.01,0.05,Las Cumbres 0.4m
+59555.155,U,12.3,0.02,Las Cumbres 1m
+59555.156,U,12.31,0.02,Las Cumbres 1m
+59555.158,B,12.46,0.02,Las Cumbres 1m
+59555.159,B,12.46,0.02,Las Cumbres 1m
+59555.16,V,12.25,0.02,Las Cumbres 1m
+59555.16,V,12.24,0.02,Las Cumbres 1m
+59555.161,g,12.21,0.01,Las Cumbres 1m
+59555.162,g,12.23,0.01,Las Cumbres 1m
+59555.163,r,12.29,0.01,Las Cumbres 1m
+59555.164,r,12.3,0.01,Las Cumbres 1m
+59555.164,i,13.08,0.01,Las Cumbres 1m
+59555.165,i,13.07,0.01,Las Cumbres 1m
+59555.288,B,12.53,0.04,Las Cumbres 0.4m
+59555.289,B,12.66,0.04,Las Cumbres 0.4m
+59555.29,V,12.28,0.03,Las Cumbres 0.4m
+59555.29,V,12.3,0.03,Las Cumbres 0.4m
+59555.291,g,12.3,0.03,Las Cumbres 0.4m
+59555.292,g,12.32,0.03,Las Cumbres 0.4m
+59555.293,r,12.34,0.03,Las Cumbres 0.4m
+59555.293,r,12.34,0.03,Las Cumbres 0.4m
+59555.294,i,13.09,0.04,Las Cumbres 0.4m
+59555.294,i,13.08,0.04,Las Cumbres 0.4m
+59556.835,B,12.62,0.06,Las Cumbres 0.4m
+59556.836,B,12.67,0.06,Las Cumbres 0.4m
+59556.837,V,12.35,0.04,Las Cumbres 0.4m
+59556.837,V,12.26,0.04,Las Cumbres 0.4m
+59556.838,g,12.23,0.04,Las Cumbres 0.4m
+59556.839,g,12.21,0.04,Las Cumbres 0.4m
+59556.84,r,12.42,0.04,Las Cumbres 0.4m
+59556.84,r,12.39,0.04,Las Cumbres 0.4m
+59556.841,i,13.45,0.13,Las Cumbres 0.4m
+59556.841,i,13.27,0.12,Las Cumbres 0.4m
+59557.442,UVW1,14.39,0.05,Swift
+59557.444,U_S,12.81,0.04,Swift
+59557.445,B_S,12.59,0.04,Swift
+59557.579,UVW2,15.55,0.09,Swift
+59557.621,clear,12.52,0,DLT40
+59557.953,B,12.58,0.04,Las Cumbres 0.4m
+59557.954,B,12.59,0.04,Las Cumbres 0.4m
+59557.955,V,12.29,0.04,Las Cumbres 0.4m
+59557.955,V,12.23,0.04,Las Cumbres 0.4m
+59557.956,g,12.28,0.03,Las Cumbres 0.4m
+59557.957,g,12.26,0.03,Las Cumbres 0.4m
+59557.957,r,12.4,0.03,Las Cumbres 0.4m
+59557.958,r,12.39,0.03,Las Cumbres 0.4m
+59557.958,i,13.33,0.06,Las Cumbres 0.4m
+59557.959,i,13.35,0.06,Las Cumbres 0.4m
+59557.962,B,12.64,0.02,Las Cumbres 1m
+59557.962,B,12.63,0.02,Las Cumbres 1m
+59557.963,V,12.44,0.02,Las Cumbres 1m
+59557.963,V,12.42,0.02,Las Cumbres 1m
+59557.964,g,12.33,0.02,Las Cumbres 1m
+59557.965,g,12.34,0.02,Las Cumbres 1m
+59557.965,r,12.52,0.02,Las Cumbres 1m
+59557.966,r,12.51,0.02,Las Cumbres 1m
+59557.966,i,13.37,0.02,Las Cumbres 1m
+59557.967,i,13.35,0.02,Las Cumbres 1m
+59558.971,B,12.71,0.01,Las Cumbres 1m
+59558.971,B,12.71,0.01,Las Cumbres 1m
+59558.972,V,12.48,0.02,Las Cumbres 1m
+59558.973,V,12.48,0.02,Las Cumbres 1m
+59558.973,g,12.42,0.01,Las Cumbres 1m
+59558.974,g,12.42,0.01,Las Cumbres 1m
+59558.974,r,12.6,0.01,Las Cumbres 1m
+59558.975,r,12.59,0.01,Las Cumbres 1m
+59558.975,i,13.43,0.01,Las Cumbres 1m
+59558.976,i,13.43,0.01,Las Cumbres 1m
+59559.027,B,12.81,0.07,Las Cumbres 0.4m
+59559.028,B,12.73,0.07,Las Cumbres 0.4m
+59559.029,V,12.42,0.05,Las Cumbres 0.4m
+59559.029,V,12.41,0.05,Las Cumbres 0.4m
+59559.03,g,12.4,0.04,Las Cumbres 0.4m
+59559.03,g,12.51,0.04,Las Cumbres 0.4m
+59559.031,r,12.58,0.04,Las Cumbres 0.4m
+59559.032,r,12.51,0.04,Las Cumbres 0.4m
+59559.032,i,13.43,0.08,Las Cumbres 0.4m
+59559.033,i,13.52,0.08,Las Cumbres 0.4m
+59559.167,UVW1,14.61,0.05,Swift
+59559.169,U_S,13.03,0.04,Swift
+59559.17,B_S,12.83,0.04,Swift
+59559.171,UVW2,15.8,0.07,Swift
+59559.173,V_S,12.33,0.04,Swift
+59559.174,UVM2,16.8,0.08,Swift
+59559.986,B,12.81,0.02,Las Cumbres 1m
+59559.987,B,12.78,0.02,Las Cumbres 1m
+59559.987,V,12.56,0.02,Las Cumbres 1m
+59559.988,V,12.55,0.02,Las Cumbres 1m
+59559.988,g,12.52,0.01,Las Cumbres 1m
+59559.989,g,12.53,0.01,Las Cumbres 1m
+59559.99,r,12.69,0.02,Las Cumbres 1m
+59559.99,r,12.67,0.02,Las Cumbres 1m
+59559.991,i,13.51,0.02,Las Cumbres 1m
+59559.991,i,13.51,0.02,Las Cumbres 1m
+59560.032,B,13.18,0.06,Las Cumbres 0.4m
+59560.033,B,12.98,0.04,Las Cumbres 0.4m
+59560.034,V,12.64,0.04,Las Cumbres 0.4m
+59560.035,V,12.53,0.04,Las Cumbres 0.4m
+59560.035,g,12.56,0.03,Las Cumbres 0.4m
+59560.036,g,12.6,0.03,Las Cumbres 0.4m
+59560.037,r,12.71,0.03,Las Cumbres 0.4m
+59560.038,r,12.73,0.03,Las Cumbres 0.4m
+59560.038,i,13.61,0.05,Las Cumbres 0.4m
+59560.039,i,13.53,0.06,Las Cumbres 0.4m
+59560.322,clear,12.69,0,DLT40
+59561.038,B,13.01,0.04,Las Cumbres 0.4m
+59561.039,B,13.06,0.04,Las Cumbres 0.4m
+59561.039,V,12.66,0.03,Las Cumbres 0.4m
+59561.04,V,12.66,0.03,Las Cumbres 0.4m
+59561.041,g,12.65,0.03,Las Cumbres 0.4m
+59561.041,g,12.62,0.03,Las Cumbres 0.4m
+59561.042,r,12.75,0.03,Las Cumbres 0.4m
+59561.043,r,12.76,0.03,Las Cumbres 0.4m
+59561.044,i,13.57,0.06,Las Cumbres 0.4m
+59561.044,i,13.42,0.06,Las Cumbres 0.4m
+59561.045,UVW1,14.84,0.05,Swift
+59561.047,U_S,13.3,0.05,Swift
+59561.142,B,12.94,0.02,Las Cumbres 1m
+59561.143,B,12.95,0.02,Las Cumbres 1m
+59561.144,V,12.6,0.02,Las Cumbres 1m
+59561.144,V,12.61,0.02,Las Cumbres 1m
+59561.145,g,12.59,0.01,Las Cumbres 1m
+59561.145,g,12.6,0.01,Las Cumbres 1m
+59561.146,r,12.74,0.01,Las Cumbres 1m
+59561.146,r,12.72,0.01,Las Cumbres 1m
+59561.147,i,13.52,0.02,Las Cumbres 1m
+59561.147,i,13.53,0.02,Las Cumbres 1m
+59561.226,B_S,12.98,0.04,Swift
+59561.227,UVW2,16.07,0.09,Swift
+59561.23,UVM2,16.95,0.09,Swift
+59561.23,V_S,12.45,0.04,Swift
+59562.044,B,13.11,0.05,Las Cumbres 0.4m
+59562.045,B,13.11,0.04,Las Cumbres 0.4m
+59562.046,V,12.75,0.04,Las Cumbres 0.4m
+59562.047,V,12.76,0.04,Las Cumbres 0.4m
+59562.047,g,12.76,0.03,Las Cumbres 0.4m
+59562.048,g,12.7,0.04,Las Cumbres 0.4m
+59562.049,r,12.8,0.03,Las Cumbres 0.4m
+59562.05,r,12.81,0.04,Las Cumbres 0.4m
+59562.05,i,13.55,0.06,Las Cumbres 0.4m
+59562.051,i,13.45,0.06,Las Cumbres 0.4m
+59562.436,B,13.1,0.02,Las Cumbres 1m
+59562.436,B,13.11,0.02,Las Cumbres 1m
+59562.437,V,12.69,0.02,Las Cumbres 1m
+59562.437,V,12.68,0.02,Las Cumbres 1m
+59562.438,g,12.71,0.01,Las Cumbres 1m
+59562.438,g,12.7,0.01,Las Cumbres 1m
+59562.439,r,12.82,0.02,Las Cumbres 1m
+59562.44,r,12.8,0.01,Las Cumbres 1m
+59562.44,i,13.59,0.02,Las Cumbres 1m
+59562.441,i,13.57,0.02,Las Cumbres 1m
+59563.051,B,13.52,0.09,Las Cumbres 0.4m
+59563.052,B,13.39,0.08,Las Cumbres 0.4m
+59563.053,V,12.72,0.04,Las Cumbres 0.4m
+59563.054,V,12.73,0.04,Las Cumbres 0.4m
+59563.054,g,12.75,0.04,Las Cumbres 0.4m
+59563.055,g,12.78,0.04,Las Cumbres 0.4m
+59563.056,r,12.8,0.04,Las Cumbres 0.4m
+59563.056,r,12.81,0.04,Las Cumbres 0.4m
+59563.057,i,13.64,0.08,Las Cumbres 0.4m
+59563.057,i,13.62,0.07,Las Cumbres 0.4m
+59563.535,B,13.23,0.02,Las Cumbres 1m
+59563.536,B,13.31,0.04,Las Cumbres 1m
+59563.536,V,12.7,0.02,Las Cumbres 1m
+59563.537,V,12.8,0.03,Las Cumbres 1m
+59563.557,UVW1,15.15,0.05,Swift
+59563.559,U_S,13.64,0.05,Swift
+59563.56,B_S,13.22,0.04,Swift
+59563.561,UVW2,16.3,0.08,Swift
+59563.564,V_S,12.62,0.04,Swift
+59563.565,UVM2,17.17,0.09,Swift
+59564.058,B,13.38,0.07,Las Cumbres 0.4m
+59564.059,B,13.38,0.08,Las Cumbres 0.4m
+59564.06,V,12.75,0.04,Las Cumbres 0.4m
+59564.06,V,12.68,0.05,Las Cumbres 0.4m
+59564.061,g,12.87,0.03,Las Cumbres 0.4m
+59564.062,g,12.82,0.04,Las Cumbres 0.4m
+59564.063,r,12.86,0.04,Las Cumbres 0.4m
+59564.063,r,12.83,0.03,Las Cumbres 0.4m
+59564.064,i,13.56,0.08,Las Cumbres 0.4m
+59564.064,i,13.62,0.07,Las Cumbres 0.4m
+59564.796,B,13.36,0.03,Las Cumbres 1m
+59564.797,B,13.37,0.03,Las Cumbres 1m
+59564.797,V,12.8,0.02,Las Cumbres 1m
+59564.798,V,12.75,0.02,Las Cumbres 1m
+59564.799,g,12.92,0.02,Las Cumbres 1m
+59564.799,g,12.92,0.02,Las Cumbres 1m
+59564.8,r,12.84,0.02,Las Cumbres 1m
+59564.8,r,12.85,0.02,Las Cumbres 1m
+59564.801,i,13.58,0.02,Las Cumbres 1m
+59564.801,i,13.56,0.03,Las Cumbres 1m
+59565.244,clear,12.86,0,DLT40
+59565.81,UVW1,15.35,0.07,Swift
+59565.812,U_S,13.92,0.05,Swift
+59565.813,B_S,13.52,0.07,Swift
+59565.814,UVW2,16.61,0.1,Swift
+59565.817,V_S,12.77,0.04,Swift
+59565.818,UVM2,17.44,0.09,Swift
+59566.322,clear,12.9,0,DLT40
+59567.332,U_S,14.33,0.05,Swift
+59567.333,B_S,14.26,0.04,Swift
+59567.337,V_S,13.17,0.04,Swift
+59567.398,UVW1,15.56,0.07,Swift
+59567.401,UVW2,16.32,0.09,Swift
+59567.404,UVM2,17.53,0.12,Swift
+59571.221,B,14.02,0.02,Las Cumbres 1m
+59571.221,B,14.02,0.02,Las Cumbres 1m
+59571.222,V,13.08,0.02,Las Cumbres 1m
+59571.222,V,13.08,0.02,Las Cumbres 1m
+59571.223,g,13.48,0.02,Las Cumbres 1m
+59571.223,g,13.49,0.01,Las Cumbres 1m
+59571.224,r,12.95,0.01,Las Cumbres 1m
+59571.225,r,12.94,0.01,Las Cumbres 1m
+59571.225,i,13.4,0.01,Las Cumbres 1m
+59571.226,i,13.39,0.01,Las Cumbres 1m
+59571.314,UVW1,15.86,0.06,Swift
+59571.315,U_S,14.5,0.05,Swift
+59571.316,UVW2,17.16,0.09,Swift
+59571.316,B_S,14.01,0.04,Swift
+59571.319,V_S,12.95,0.04,Swift
+59571.32,UVM2,17.92,0.1,Swift
+59573.44,B,14.22,0.02,Las Cumbres 1m
+59573.441,B,14.23,0.02,Las Cumbres 1m
+59573.442,V,13.19,0.02,Las Cumbres 1m
+59573.442,V,13.17,0.02,Las Cumbres 1m
+59573.443,g,13.71,0.01,Las Cumbres 1m
+59573.443,g,13.71,0.01,Las Cumbres 1m
+59573.444,r,12.99,0.01,Las Cumbres 1m
+59573.444,r,12.99,0.02,Las Cumbres 1m
+59573.445,i,13.35,0.02,Las Cumbres 1m
+59573.445,i,13.36,0.02,Las Cumbres 1m
+59574.229,UVW1,16.38,0.07,Swift
+59574.23,UVW2,17.43,0.09,Swift
+59574.23,U_S,14.87,0.05,Swift
+59574.23,B_S,14.31,0.04,Swift
+59574.232,UVM2,18.08,0.11,Swift
+59574.232,V_S,13.1,0.04,Swift
+59576.067,clear,13.17,0,DLT40
+59576.156,B,14.45,0.02,Las Cumbres 1m
+59576.156,B,14.44,0.02,Las Cumbres 1m
+59576.157,V,13.33,0.01,Las Cumbres 1m
+59576.158,V,13.33,0.01,Las Cumbres 1m
+59576.158,g,13.92,0.01,Las Cumbres 1m
+59576.159,g,13.92,0.01,Las Cumbres 1m
+59576.159,r,13.07,0.01,Las Cumbres 1m
+59576.16,r,13.07,0.01,Las Cumbres 1m
+59576.16,i,13.35,0.01,Las Cumbres 1m
+59576.161,i,13.34,0.01,Las Cumbres 1m
+59577.195,clear,13.2,0,DLT40
+59577.278,UVW1,16.41,0.06,Swift
+59577.281,U_S,14.98,0.05,Swift
+59577.282,B_S,14.48,0.04,Swift
+59577.283,UVW2,17.48,0.09,Swift
+59577.288,V_S,13.23,0.04,Swift
+59577.289,UVM2,18.35,0.12,Swift
+59578.198,clear,13.24,0,DLT40
+59578.798,U,14.81,0.05,Las Cumbres 1m
+59578.798,U,14.6,0.04,Las Cumbres 1m
+59578.799,B,14.64,0.02,Las Cumbres 1m
+59578.8,B,14.59,0.02,Las Cumbres 1m
+59578.8,V,13.47,0.02,Las Cumbres 1m
+59578.801,V,13.47,0.02,Las Cumbres 1m
+59578.801,g,14.17,0.01,Las Cumbres 1m
+59578.802,g,14.15,0.01,Las Cumbres 1m
+59578.803,r,13.16,0.02,Las Cumbres 1m
+59578.803,r,13.18,0.01,Las Cumbres 1m
+59578.804,i,13.37,0.02,Las Cumbres 1m
+59578.804,i,13.4,0.02,Las Cumbres 1m
+59579.078,clear,13.29,0,DLT40
+59580.078,clear,13.38,0,DLT40
+59580.345,UVW1,16.55,0.07,Swift
+59580.348,U_S,15.16,0.05,Swift
+59580.35,B_S,14.69,0.04,Swift
+59580.351,UVW2,17.68,0.14,Swift
+59580.481,V_S,13.4,0.06,Swift
+59580.482,UVM2,18.36,0.27,Swift
+59581.081,clear,13.43,0,DLT40
+59581.506,U,14.95,0.05,Las Cumbres 1m
+59581.507,U,14.96,0.05,Las Cumbres 1m
+59581.508,B,14.79,0.02,Las Cumbres 1m
+59581.508,B,14.78,0.02,Las Cumbres 1m
+59581.509,V,13.64,0.02,Las Cumbres 1m
+59581.51,V,13.64,0.02,Las Cumbres 1m
+59581.51,g,14.33,0.01,Las Cumbres 1m
+59581.511,g,14.32,0.02,Las Cumbres 1m
+59581.511,r,13.34,0.01,Las Cumbres 1m
+59581.512,r,13.34,0.01,Las Cumbres 1m
+59581.513,i,13.49,0.02,Las Cumbres 1m
+59581.513,i,13.49,0.02,Las Cumbres 1m
+59582.078,clear,13.45,0,DLT40
+59583.584,UVW1,16.69,0.08,Swift
+59583.587,U_S,15.3,0.06,Swift
+59583.588,UVW2,18.02,0.13,Swift
+59583.588,B_S,14.86,0.04,Swift
+59583.593,UVM2,18.68,0.16,Swift
+59583.593,V_S,13.58,0.04,Swift
+59584.08,clear,13.57,0,DLT40
+59584.217,U,15.04,0.04,Las Cumbres 1m
+59584.217,U,15.07,0.04,Las Cumbres 1m
+59584.218,B,14.88,0.02,Las Cumbres 1m
+59584.219,B,14.88,0.02,Las Cumbres 1m
+59584.219,V,13.83,0.02,Las Cumbres 1m
+59584.22,V,13.79,0.02,Las Cumbres 1m
+59584.22,g,14.48,0.01,Las Cumbres 1m
+59584.221,g,14.48,0.01,Las Cumbres 1m
+59584.222,r,13.51,0.02,Las Cumbres 1m
+59584.222,r,13.49,0.02,Las Cumbres 1m
+59584.223,i,13.68,0.02,Las Cumbres 1m
+59584.223,i,13.68,0.02,Las Cumbres 1m
+59585.173,clear,13.66,0,DLT40
+59586.305,clear,13.72,0,DLT40
+59586.371,UVW1,16.83,0.08,Swift
+59586.374,U_S,15.46,0.06,Swift
+59586.375,B_S,15,0.04,Swift
+59586.376,UVW2,18,0.12,Swift
+59586.381,V_S,13.8,0.04,Swift
+59586.382,UVM2,18.64,0.15,Swift
+59587.138,U,15.04,0.03,Las Cumbres 1m
+59587.139,U,15.15,0.03,Las Cumbres 1m
+59587.14,B,14.99,0.02,Las Cumbres 1m
+59587.14,B,15.02,0.02,Las Cumbres 1m
+59587.141,V,13.92,0.02,Las Cumbres 1m
+59587.141,V,13.95,0.02,Las Cumbres 1m
+59587.142,g,14.6,0.02,Las Cumbres 1m
+59587.143,g,14.6,0.01,Las Cumbres 1m
+59587.143,r,13.69,0.02,Las Cumbres 1m
+59587.144,r,13.68,0.01,Las Cumbres 1m
+59587.144,i,13.89,0.02,Las Cumbres 1m
+59587.145,i,13.88,0.02,Las Cumbres 1m
+59589.798,clear,13.94,0,DLT40
+59590.765,clear,13.95,0,DLT40
+59590.796,U,14.93,0.08,Las Cumbres 1m
+59590.796,U,15.09,0.1,Las Cumbres 1m
+59590.797,B,15.04,0.03,Las Cumbres 1m
+59590.798,B,15.08,0.03,Las Cumbres 1m
+59590.798,V,14.09,0.02,Las Cumbres 1m
+59590.799,V,14.08,0.02,Las Cumbres 1m
+59590.799,g,14.68,0.02,Las Cumbres 1m
+59590.8,g,14.68,0.02,Las Cumbres 1m
+59590.801,r,13.84,0.02,Las Cumbres 1m
+59590.801,r,13.85,0.02,Las Cumbres 1m
+59590.802,i,14.08,0.02,Las Cumbres 1m
+59590.802,i,14.07,0.02,Las Cumbres 1m
+59591.601,clear,14.01,0,DLT40
+59591.622,UVW1,16.97,0.1,Swift
+59591.623,U_S,15.51,0.07,Swift
+59591.623,B_S,15.06,0.05,Swift
+59591.624,UVW2,18,0.15,Swift
+59591.625,V_S,13.97,0.05,Swift
+59591.626,UVM2,18.95,0.24,Swift
+59592.564,clear,14.05,0,DLT40
+59593.075,U,15.37,0.05,Las Cumbres 1m
+59593.076,U,15.22,0.05,Las Cumbres 1m
+59593.076,B,15.11,0.02,Las Cumbres 1m
+59593.077,B,15.18,0.02,Las Cumbres 1m
+59593.078,V,14.19,0.02,Las Cumbres 1m
+59593.078,V,14.15,0.02,Las Cumbres 1m
+59593.079,g,14.71,0.02,Las Cumbres 1m
+59593.079,g,14.71,0.02,Las Cumbres 1m
+59593.08,r,13.93,0.02,Las Cumbres 1m
+59593.08,r,13.94,0.02,Las Cumbres 1m
+59593.081,i,14.16,0.02,Las Cumbres 1m
+59593.081,i,14.17,0.02,Las Cumbres 1m
+59593.763,clear,14.08,0,DLT40
+59594.557,clear,14.05,0,DLT40
+59595.558,clear,14.14,0,DLT40
+59595.795,U,15.59,0.11,Las Cumbres 1m
+59595.795,U,15.33,0.09,Las Cumbres 1m
+59595.796,B,15.18,0.03,Las Cumbres 1m
+59595.797,B,15.21,0.03,Las Cumbres 1m
+59595.797,V,14.2,0.02,Las Cumbres 1m
+59595.798,V,14.2,0.02,Las Cumbres 1m
+59595.798,g,14.76,0.02,Las Cumbres 1m
+59595.799,g,14.76,0.02,Las Cumbres 1m
+59595.8,r,14.03,0.02,Las Cumbres 1m
+59595.8,r,14.05,0.02,Las Cumbres 1m
+59595.801,i,14.3,0.02,Las Cumbres 1m
+59595.801,i,14.28,0.02,Las Cumbres 1m
+59596.673,UVW1,17.21,0.08,Swift
+59596.675,U_S,15.71,0.06,Swift
+59596.676,UVW2,18.2,0.13,Swift
+59596.676,B_S,15.19,0.04,Swift
+59596.679,V_S,14.11,0.05,Swift
+59596.68,UVM2,18.8,0,Swift
+59596.734,clear,14.18,0.01,DLT40
+59598.626,clear,14.26,0.01,DLT40
+59599.597,clear,14.29,0,DLT40
+59600.123,clear,14.26,0,DLT40
+59600.447,U,15.37,0.02,Las Cumbres 1m
+59600.449,U,15.47,0.03,Las Cumbres 1m
+59600.45,B,15.24,0.01,Las Cumbres 1m
+59600.451,B,15.23,0.01,Las Cumbres 1m
+59600.452,V,14.35,0.01,Las Cumbres 1m
+59600.453,V,14.35,0.01,Las Cumbres 1m
+59600.454,g,14.84,0.01,Las Cumbres 1m
+59600.455,g,14.84,0.01,Las Cumbres 1m
+59600.456,r,14.19,0.01,Las Cumbres 1m
+59600.457,r,14.18,0.01,Las Cumbres 1m
+59600.458,i,14.47,0.01,Las Cumbres 1m
+59600.459,i,14.5,0.01,Las Cumbres 1m
+59600.619,clear,14.33,0,DLT40
+59601.661,clear,14.34,0.01,DLT40
+59602.745,clear,14.36,0.01,DLT40
+59603.272,clear,14.41,0,DLT40
+59603.781,U,15.38,0.09,Las Cumbres 1m
+59603.782,U,15.27,0.1,Las Cumbres 1m
+59603.783,B,15.27,0.04,Las Cumbres 1m
+59603.784,B,15.23,0.03,Las Cumbres 1m
+59603.785,V,14.45,0.02,Las Cumbres 1m
+59603.786,V,14.44,0.02,Las Cumbres 1m
+59603.787,g,14.91,0.02,Las Cumbres 1m
+59603.788,g,14.89,0.02,Las Cumbres 1m
+59603.789,r,14.33,0.02,Las Cumbres 1m
+59603.79,r,14.35,0.02,Las Cumbres 1m
+59603.791,i,14.64,0.03,Las Cumbres 1m
+59603.792,i,14.6,0.03,Las Cumbres 1m
+59606.089,clear,14.46,0,DLT40
+59606.735,clear,14.55,0.01,DLT40
+59607.513,B,15.24,0.04,Las Cumbres 1m
+59607.514,B,15.41,0.04,Las Cumbres 1m
+59607.516,V,14.55,0.03,Las Cumbres 1m
+59607.517,V,14.57,0.03,Las Cumbres 1m
+59607.518,g,14.92,0.03,Las Cumbres 1m
+59607.519,g,14.92,0.02,Las Cumbres 1m
+59607.52,r,14.41,0.02,Las Cumbres 1m
+59607.521,r,14.4,0.02,Las Cumbres 1m
+59607.522,i,14.72,0.04,Las Cumbres 1m
+59607.522,i,14.8,0.03,Las Cumbres 1m
+59609.206,clear,14.54,0,DLT40
+59610.689,clear,14.64,0.01,DLT40
+59611.741,clear,14.67,0,DLT40
+59612.104,U,15.57,0.02,Las Cumbres 1m
+59612.105,U,15.57,0.02,Las Cumbres 1m
+59612.107,B,15.37,0.01,Las Cumbres 1m
+59612.108,B,15.36,0.01,Las Cumbres 1m
+59612.109,V,14.66,0.01,Las Cumbres 1m
+59612.109,V,14.67,0.01,Las Cumbres 1m
+59612.11,g,14.98,0.01,Las Cumbres 1m
+59612.111,g,14.97,0.01,Las Cumbres 1m
+59612.113,r,14.55,0.01,Las Cumbres 1m
+59612.113,r,14.54,0.01,Las Cumbres 1m
+59612.114,i,14.91,0.01,Las Cumbres 1m
+59612.115,i,14.89,0.01,Las Cumbres 1m
+59612.599,clear,14.65,0.01,DLT40
+59613.686,clear,14.73,0,DLT40
+59615.219,clear,14.77,0,DLT40
+59615.691,clear,14.79,0.01,DLT40
+59615.792,U,15.61,0.03,Las Cumbres 1m
+59615.793,U,15.66,0.03,Las Cumbres 1m
+59615.795,B,15.45,0.02,Las Cumbres 1m
+59615.796,B,15.45,0.02,Las Cumbres 1m
+59615.797,V,14.77,0.01,Las Cumbres 1m
+59615.798,V,14.76,0.02,Las Cumbres 1m
+59615.799,g,15.04,0.01,Las Cumbres 1m
+59615.8,g,15.03,0.01,Las Cumbres 1m
+59615.801,r,14.7,0.01,Las Cumbres 1m
+59615.802,r,14.68,0.01,Las Cumbres 1m
+59615.803,i,15.04,0.02,Las Cumbres 1m
+59615.803,i,15.07,0.02,Las Cumbres 1m
+59617.195,clear,14.79,0,DLT40
+59618.088,clear,14.79,0,DLT40
+59618.53,clear,14.88,0,DLT40
+59621.792,U,15.65,0.05,Las Cumbres 1m
+59621.793,U,15.75,0.06,Las Cumbres 1m
+59621.795,B,15.5,0.02,Las Cumbres 1m
+59621.796,B,15.52,0.02,Las Cumbres 1m
+59621.797,V,14.92,0.02,Las Cumbres 1m
+59621.798,V,14.93,0.02,Las Cumbres 1m
+59621.799,g,15.12,0.02,Las Cumbres 1m
+59621.8,g,15.11,0.02,Las Cumbres 1m
+59621.801,r,14.86,0.02,Las Cumbres 1m
+59621.802,r,14.84,0.02,Las Cumbres 1m
+59621.803,i,15.26,0.02,Las Cumbres 1m
+59621.803,i,15.27,0.02,Las Cumbres 1m
+59622.217,clear,14.95,0.01,DLT40
+59622.644,clear,14.97,0.01,DLT40
+59623.164,clear,15.02,0.01,DLT40
+59623.56,clear,14.96,0,DLT40
+59624.128,clear,15.03,0,DLT40
+59625.158,clear,15.02,0.01,DLT40
+59625.594,clear,15.05,0.01,DLT40
+59626.196,clear,15.08,0.01,DLT40
+59626.645,clear,15.08,0.01,DLT40
+59626.87,U,15.72,0.21,Las Cumbres 1m
+59626.871,U,15.59,0.18,Las Cumbres 1m
+59626.873,B,15.67,0.07,Las Cumbres 1m
+59626.874,B,15.51,0.06,Las Cumbres 1m
+59626.875,V,15.02,0.04,Las Cumbres 1m
+59626.876,V,14.93,0.04,Las Cumbres 1m
+59626.877,g,15.09,0.03,Las Cumbres 1m
+59626.878,g,15.12,0.03,Las Cumbres 1m
+59626.879,r,14.96,0.03,Las Cumbres 1m
+59626.88,r,15.01,0.03,Las Cumbres 1m
+59626.881,i,15.43,0.05,Las Cumbres 1m
+59626.881,i,15.39,0.05,Las Cumbres 1m
+59627.201,clear,15.06,0.01,DLT40
+59627.595,clear,15.11,0.01,DLT40
+59628.166,clear,15.06,0.01,DLT40
+59628.543,clear,15.13,0.01,DLT40
+59629.161,clear,15.12,0.01,DLT40
+59629.64,clear,15.16,0.01,DLT40
+59630.2,clear,15.16,0.01,DLT40
+59630.686,clear,15.21,0.01,DLT40
+59631.118,U,15.88,0.04,Las Cumbres 1m
+59631.119,U,15.9,0.04,Las Cumbres 1m
+59631.121,B,15.66,0.02,Las Cumbres 1m
+59631.122,B,15.61,0.02,Las Cumbres 1m
+59631.123,V,15.12,0.02,Las Cumbres 1m
+59631.124,V,15.11,0.02,Las Cumbres 1m
+59631.125,g,15.2,0.01,Las Cumbres 1m
+59631.126,g,15.22,0.02,Las Cumbres 1m
+59631.127,r,15.13,0.02,Las Cumbres 1m
+59631.128,r,15.15,0.02,Las Cumbres 1m
+59631.129,i,15.55,0.02,Las Cumbres 1m
+59631.129,i,15.59,0.02,Las Cumbres 1m
+59631.64,clear,15.23,0.01,DLT40
+59632.569,clear,15.22,0.01,DLT40
+59634.203,clear,15.32,0.01,DLT40
+59634.683,clear,15.33,0.02,DLT40
+59634.775,U,15.99,0.04,Las Cumbres 1m
+59634.776,U,16.06,0.04,Las Cumbres 1m
+59634.777,B,15.73,0.02,Las Cumbres 1m
+59634.778,B,15.75,0.02,Las Cumbres 1m
+59634.78,V,15.22,0.02,Las Cumbres 1m
+59634.78,V,15.23,0.02,Las Cumbres 1m
+59634.781,g,15.29,0.01,Las Cumbres 1m
+59634.782,g,15.29,0.01,Las Cumbres 1m
+59634.783,r,15.26,0.01,Las Cumbres 1m
+59634.784,r,15.28,0.02,Las Cumbres 1m
+59634.785,i,15.74,0.02,Las Cumbres 1m
+59634.786,i,15.69,0.02,Las Cumbres 1m
+59636.144,clear,15.31,0.01,DLT40
+59640.523,clear,15.44,0.01,DLT40
+59640.844,U,16.05,0.06,Las Cumbres 1m
+59640.845,U,16.16,0.06,Las Cumbres 1m
+59640.846,B,15.8,0.02,Las Cumbres 1m
+59640.847,B,15.81,0.02,Las Cumbres 1m
+59640.849,V,15.39,0.02,Las Cumbres 1m
+59640.849,V,15.39,0.02,Las Cumbres 1m
+59640.85,g,15.37,0.01,Las Cumbres 1m
+59640.851,g,15.36,0.01,Las Cumbres 1m
+59640.853,r,15.44,0.02,Las Cumbres 1m
+59640.853,r,15.45,0.02,Las Cumbres 1m
+59640.854,i,15.89,0.03,Las Cumbres 1m
+59640.855,i,15.82,0.03,Las Cumbres 1m
+59642.521,clear,15.52,0.01,DLT40
+59644.536,clear,15.53,0.01,DLT40
+59646.757,U,16.22,0.08,Las Cumbres 1m
+59646.759,U,16.34,0.06,Las Cumbres 1m
+59646.761,B,15.89,0.02,Las Cumbres 1m
+59646.762,B,15.91,0.02,Las Cumbres 1m
+59646.764,V,15.47,0.02,Las Cumbres 1m
+59646.765,V,15.48,0.02,Las Cumbres 1m
+59646.766,g,15.45,0.02,Las Cumbres 1m
+59646.767,g,15.57,0.03,Las Cumbres 1m
+59646.769,r,15.66,0.02,Las Cumbres 1m
+59646.77,r,15.58,0.03,Las Cumbres 1m
+59646.771,i,15.64,0.31,Las Cumbres 1m
+59646.772,i,16.01,0.06,Las Cumbres 1m
+59648.03,clear,15.54,0.01,DLT40
+59652.799,U,16.02,0.13,Las Cumbres 1m
+59652.801,U,16.27,0.16,Las Cumbres 1m
+59652.803,B,16.06,0.04,Las Cumbres 1m
+59652.804,B,15.9,0.05,Las Cumbres 1m
+59652.806,V,15.51,0.05,Las Cumbres 1m
+59652.807,V,15.49,0.04,Las Cumbres 1m
+59652.808,g,15.49,0.03,Las Cumbres 1m
+59652.809,g,15.52,0.03,Las Cumbres 1m
+59652.811,r,15.7,0.04,Las Cumbres 1m
+59652.812,r,15.78,0.03,Las Cumbres 1m
+59652.813,i,16.2,0.06,Las Cumbres 1m
+59652.814,i,16.14,0.06,Las Cumbres 1m
+59655.049,clear,15.81,0.01,DLT40
+59656.086,clear,15.81,0.02,DLT40
+59657.084,clear,15.83,0.02,DLT40
+59659.01,U,16.6,0.04,Las Cumbres 1m
+59659.012,U,16.64,0.04,Las Cumbres 1m
+59659.014,B,16.11,0.01,Las Cumbres 1m
+59659.015,B,16.11,0.01,Las Cumbres 1m
+59659.017,V,15.73,0.01,Las Cumbres 1m
+59659.018,V,15.74,0.01,Las Cumbres 1m
+59659.019,g,15.59,0.01,Las Cumbres 1m
+59659.02,g,15.59,0.01,Las Cumbres 1m
+59659.022,r,15.99,0.02,Las Cumbres 1m
+59659.023,r,16,0.02,Las Cumbres 1m
+59659.024,i,16.38,0.02,Las Cumbres 1m
+59659.025,i,16.42,0.02,Las Cumbres 1m
+59664.778,U,16.67,0.08,Las Cumbres 1m
+59664.779,U,16.67,0.07,Las Cumbres 1m
+59664.781,B,16.25,0.02,Las Cumbres 1m
+59664.782,B,16.22,0.02,Las Cumbres 1m
+59664.985,U,16.85,0.12,Las Cumbres 1m
+59664.987,U,17.04,0.12,Las Cumbres 1m
+59664.989,B,16.24,0.02,Las Cumbres 1m
+59664.99,B,16.19,0.02,Las Cumbres 1m
+59664.992,V,15.88,0.02,Las Cumbres 1m
+59664.993,V,15.91,0.02,Las Cumbres 1m
+59664.994,g,15.71,0.01,Las Cumbres 1m
+59664.995,g,15.7,0.01,Las Cumbres 1m
+59664.997,r,16.16,0.02,Las Cumbres 1m
+59664.998,r,16.14,0.02,Las Cumbres 1m
+59664.999,i,16.58,0.03,Las Cumbres 1m
+59665,i,16.51,0.03,Las Cumbres 1m
+59670.767,B,16.26,0.05,Las Cumbres 1m
+59670.769,B,16.42,0.09,Las Cumbres 1m
+59670.77,V,15.98,0.08,Las Cumbres 1m
+59670.771,V,16.01,0.07,Las Cumbres 1m
+59670.772,g,15.76,0.03,Las Cumbres 1m
+59670.774,g,15.76,0.02,Las Cumbres 1m
+59670.775,r,16.36,0.06,Las Cumbres 1m
+59670.776,r,16.19,0.05,Las Cumbres 1m
+59670.778,i,16.56,0.08,Las Cumbres 1m
+59670.779,i,16.7,0.1,Las Cumbres 1m
+59674.995,clear,16.2,0.01,DLT40
+59675.991,clear,16.19,0.01,DLT40
+59676.746,U,16.63,0.12,Las Cumbres 1m
+59676.748,U,16.63,0.11,Las Cumbres 1m
+59676.75,B,16.39,0.03,Las Cumbres 1m
+59676.751,B,16.48,0.03,Las Cumbres 1m
+59676.753,V,16.1,0.03,Las Cumbres 1m
+59676.754,V,16.04,0.03,Las Cumbres 1m
+59676.755,g,15.82,0.02,Las Cumbres 1m
+59676.756,g,15.84,0.02,Las Cumbres 1m
+59676.758,r,16.54,0.05,Las Cumbres 1m
+59676.759,r,16.41,0.05,Las Cumbres 1m
+59676.76,i,16.91,0.08,Las Cumbres 1m
+59676.761,i,16.51,0.06,Las Cumbres 1m
+59682.971,U,16.89,0.13,Las Cumbres 1m
+59682.973,U,16.84,0.13,Las Cumbres 1m
+59682.975,B,16.46,0.03,Las Cumbres 1m
+59682.976,B,16.41,0.03,Las Cumbres 1m
+59682.977,V,16.27,0.03,Las Cumbres 1m
+59682.978,V,16.22,0.03,Las Cumbres 1m
+59682.98,g,15.94,0.02,Las Cumbres 1m
+59682.981,g,15.95,0.02,Las Cumbres 1m
+59682.983,r,16.66,0.03,Las Cumbres 1m
+59682.984,r,16.6,0.04,Las Cumbres 1m
+59682.985,i,16.96,0.07,Las Cumbres 1m
+59682.986,i,17.02,0.07,Las Cumbres 1m
+59683.014,clear,16.34,0.01,DLT40
+59684.518,clear,16.49,0.04,DLT40
+59685.01,clear,16.43,0.04,DLT40
+59685.473,clear,16.56,0,DLT40
+59685.994,clear,16.45,0.02,DLT40
+59686.462,clear,16.48,0.03,DLT40
+59687.461,clear,16.54,0.03,DLT40
+59688.712,U,17.58,0.27,Las Cumbres 1m
+59688.713,U,16.9,0.13,Las Cumbres 1m
+59688.715,B,16.62,0.03,Las Cumbres 1m
+59688.717,B,16.62,0.03,Las Cumbres 1m
+59688.718,V,16.4,0.03,Las Cumbres 1m
+59688.719,V,16.28,0.03,Las Cumbres 1m
+59688.72,g,16.02,0.02,Las Cumbres 1m
+59688.722,g,16.01,0.02,Las Cumbres 1m
+59688.723,r,16.8,0.03,Las Cumbres 1m
+59688.724,r,16.82,0.04,Las Cumbres 1m
+59688.725,i,17.03,0.06,Las Cumbres 1m
+59688.726,i,17.18,0.07,Las Cumbres 1m
+59692.02,clear,16.52,0.02,DLT40
+59694.007,clear,16.53,0.04,DLT40
+59697.002,clear,16.6,0.04,DLT40
+59697.474,clear,16.8,0.02,DLT40
+59699.467,clear,16.83,0.03,DLT40
