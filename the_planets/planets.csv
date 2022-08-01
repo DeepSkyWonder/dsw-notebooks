@@ -1,0 +1,9 @@
+﻿index,name,semimajor_axis,eccentricity,inclination
+1,Mercury,0.3871,0.206,7
+2,Venus,0.7233,0.007,3.39
+3,Earth,1,0.017,0
+4,Mars,1.5273,0.093,1.85
+5,Jupiter,5.2028,0.048,1.31
+6,Saturn,9.5388,0.056,2.49
+7,Uranus,19.1914,0.046,0.77
+8,Neptune,30.0611,0.01,1.77
