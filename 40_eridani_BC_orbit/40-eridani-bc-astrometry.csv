@@ -1,4 +1,4 @@
-﻿datetime_eri_b,band_eri_b,ra_eri_b,dec_eri_b,rms_ra_eri_b,rms_dec_eri_b,datetime_eri_b,band_eri_c,ra_eri_c,dec_eri_c,rms_ra_eri_c,rms_dec_eri_c
+﻿datetime_eri_b,band_eri_b,ra_eri_b,dec_eri_b,rms_ra_eri_b,rms_dec_eri_b,datetime_eri_c,band_eri_c,ra_eri_c,dec_eri_c,rms_ra_eri_c,rms_dec_eri_c
 2022-07-29T08:59:13Z ,V,63.826661,-7.679002,0.096,0.063,2022-07-29T09:01:27Z,I_c,63.825537,-7.677096,0.124,0.066
 2022-08-14T08:56:21Z,V,63.82668,-7.679049,0.045,0.039,2022-08-14T09:02:47Z ,I_c,63.825574,-7.67717,0.051,0.044
 2022-08-19T08:52:20Z ,V,63.826669,-7.679124,0.038,0.033,2022-08-19T08:54:32Z ,I_c,63.825544,-7.677267,0.039,0.037
