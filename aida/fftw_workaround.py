@@ -6,7 +6,7 @@
 ### If using a Mac, see  post about pyFFTW and FFTW on a Mac: http://dawes.wordpress.com/2012/03/31/python-fourier-mac/
 #
 
-import numpy as N
+import numpy as _N
 
 def numpy_rfft(a,af=None, inplace=0):
     if af is None:
