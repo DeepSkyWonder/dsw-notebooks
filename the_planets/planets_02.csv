@@ -3,7 +3,7 @@ number,name,semimajor_axis,titius_bode_model,eccentricity,inclination,known
 2,Venus,0.7233,0.70,0.007,3.39,True
 3,Earth,1,1.00,0.017,0,True
 4,Mars,1.5273,1.60,0.093,1.85,True
-5,Ceres,2.7658,2.80, 0.078,10.607,False
+5,Ceres,2.7658,2.80, 0.078,10.607,True
 6,Jupiter,5.2028,5.20,0.048,1.31,True
 7,Saturn,9.5388,10.0,0.056,2.49,True
-8,Uranus,19.1914,0.046,0.77
+8,Uranus,19.1914,0.046,0.77,True
