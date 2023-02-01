@@ -6,4 +6,4 @@ number,name,semimajor_axis,titius_bode_model,eccentricity,inclination,known
 5,Ceres,2.7658,2.80, 0.078,10.607,True
 6,Jupiter,5.2028,5.20,0.048,1.31,True
 7,Saturn,9.5388,10.0,0.056,2.49,True
-8,Uranus,19.1914,19.6.0.046,0.77,True
+8,Uranus,19.1914,19.6,0.046,0.77,True
