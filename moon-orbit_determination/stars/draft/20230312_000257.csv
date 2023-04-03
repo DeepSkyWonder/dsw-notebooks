@@ -1,4 +1,6 @@
 x,y,star_id
+2437, 114,'del Cen'
+2948, 92,'gam Cru'
 996, 916,'alp Crv'
 898, 994,'eps Crv'
 685, 1213,'gam Crv'
@@ -9,6 +11,7 @@ x,y,star_id
 1929, 2090,'pi Hya'
 936, 2205,'alp Vir'
 1420, 1753,'gam Vir'
+2463, 516,'gam Cen'
 2792, 1217,'zet Cen'
 2902, 1448,'iot Lup'
 2041, 1325,'iot Cen'
@@ -16,3 +19,4 @@ x,y,star_id
 2350, 1738,'tet Cen'
 2530, 1799,'psi Cen'
 1896, 2933,'9 Lib'
+2963, 3388,'del Sco'
