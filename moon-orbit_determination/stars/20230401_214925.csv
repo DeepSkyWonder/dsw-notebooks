@@ -4,6 +4,7 @@ x,y,star_id
 2941, 2759,'gam01 Leo'
 2363, 2134,'omi Leo'
 2429, 2950,'eps Leo'
+1299, 1383,'C Hya'
 2841, 776,'lam Hya'
 2169, 1068,'alp Hya'
 2350, 1506,'iot Hya'
@@ -11,11 +12,9 @@ x,y,star_id
 1483, 1915,'del Hya'
 1606, 1949,'eps Hya'
 1721, 1919,'zet Hya'
-
 1204, 2112,'bet Cnc'
 1770, 2239,'alp Cnc'
 1598, 2595,'del Cnc'
-
 831, 3257,'bet Gem'
 700, 3541,'alp Gem'
 658, 1919,'alp CMi'
