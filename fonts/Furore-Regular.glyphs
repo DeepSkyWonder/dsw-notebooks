@@ -6,12 +6,7 @@ F,
 G,
 W,
 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz,
-z,
-"0",
-"0123456789",
-"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz/A-cy/Be-cy/Ve-cy/Ge-cy/Gje-cy/Gheupturn-cy/De-cy/Ie-cy/Io-cy/Zhe-cy/Ze-cy/Ii-cy/Iishort-cy/Ka-cy/Kje-cy/El-cy/Em-cy/En-cy/O-cy/Pe-cy/Er-cy/Es-cy/Te-cy/U-cy/Ushort-cy/Ef-cy/Ha-cy/Che-cy/Tse-cy/Sha-cy/Shcha-cy/Dzhe-cy/Softsign-cy/Hardsign-cy/Yeru-cy/Lje-cy/Nje-cy/Dze-cy/E-cy/Ereversed-cy/I-cy/Yi-cy/Je-cy/Tshe-cy/Iu-cy/Ia-cy/Dje-cy/Ghestroke-cy/Kadescender-cy/Endescender-cy/Ustraight-cy/Ustraightstroke-cy/Shha-cy/Schwa-cy/Obarred-cy/a-cy/be-cy/ve-cy/ge-cy/gje-cy/gheupturn-cy/de-cy/ie-cy/io-cy/zhe-cy/ze-cy/ii-cy/iishort-cy/ka-cy/kje-cy/el-cy/em-cy/en-cy/o-cy/pe-cy/er-cy/es-cy/te-cy/u-cy/ushort-cy/ef-cy/ha-cy/che-cy/tse-cy/sha-cy/shcha-cy/dzhe-cy/softsign-cy/hardsign-cy/yeru-cy/lje-cy/nje-cy/dze-cy/e-cy/ereversed-cy/i-cy/yi-cy/je-cy/tshe-cy/iu-cy/ia-cy/dje-cy/ghestroke-cy/ustraight-cy/ustraightstroke-cy/obarred-cy 0123456789.,:;/ellipsis !?·/bullet *#///backslash (){}[]-­/endash/emdash _/quotesinglbase/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright «»/guilsinglleft/guilsinglright \"'/.notdef/space/nbspace @&¶§©®/trademark °|¦/dagger/daggerdbl/numero ¤$/euro/tenge +=><±~¬^µ%/perthousand `/_0127/_0152",
-".",
-"6"
+"A/space/euro"
 );
 copyright = "Copyright (c) 2009 by Daniel Pouzeot, Jovanny Lemonad. All rights reserved.";
 date = "2009-08-31 10:44:53 +0000";
@@ -12530,16 +12525,14 @@ rightMetricsKey = A;
 },
 {
 glyphname = space;
-lastChange = "2023-05-28 20:48:15 +0000";
+lastChange = "2023-05-28 20:53:35 +0000";
 layers = (
 {
 layerId = "C2265137-4960-4D1A-899B-D2ADBAADF5E4";
-width = 972;
+width = 400;
 }
 );
-leftMetricsKey = A;
 note = space;
-rightMetricsKey = A;
 unicode = 0020;
 },
 {
